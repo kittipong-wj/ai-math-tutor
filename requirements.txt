@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+Pillow
+matplotlib
+numpy
+groq
+supabase
+streamlit-cropper
+reportlab
